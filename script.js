@@ -1,6 +1,3 @@
-// $("main").load("main.html");
-
-
 $(function () {
 
     $(function () {
