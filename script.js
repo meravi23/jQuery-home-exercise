@@ -1,8 +1,8 @@
 $(function () {
+    $("main").load("main.html");
+})
 
-    $(function () {
-        $("main").load("main.html");
-    })
+$(function () {
 
     $("#brand-name").click(function () {
         $("main").load("main.html");
